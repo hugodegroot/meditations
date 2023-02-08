@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Meditations</title>
+    <link>http://meditations.is/post/</link>
+    <description>Recent content in Posts on Meditations</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://meditations.is/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First post</title>
+      <link>http://meditations.is/post/first-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://meditations.is/post/first-post/</guid>
+      <description>Welcome to my website! 2 of my colleagues started a blog and took up the challenge to write 100 post in a year. This is my attempt to join them in the challenge! :)
+For a while I&amp;rsquo;ve been trying to write more. Throughout my day I encounter things that make me think. Usually I forget about it soon, and this has bothered me for a while. I want to have a medium where I can write these thoughts down, so this challenge seemed like the perfect opportunity to get started.</description>
+    </item>
+    
+  </channel>
+</rss>

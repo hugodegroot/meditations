@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://meditations.is/</loc>
+  </url><url>
+    <loc>http://meditations.is/about/</loc>
+  </url><url>
+    <loc>http://meditations.is/categories/</loc>
+  </url><url>
+    <loc>http://meditations.is/post/first-post/</loc>
+  </url><url>
+    <loc>http://meditations.is/tags/index/</loc>
+  </url><url>
+    <loc>http://meditations.is/post/</loc>
+  </url><url>
+    <loc>http://meditations.is/tags/</loc>
+  </url>
+</urlset>

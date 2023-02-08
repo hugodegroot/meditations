@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meditations</title>
+    <link>http://meditations.is/</link>
+    <description>Recent content on Meditations</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://meditations.is/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://meditations.is/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://meditations.is/about/</guid>
+      <description>Welcome to my website! I&amp;rsquo;m Hugo, an iOS developer from the Netherlands.
+In my free time I like to read, play guitar and go for walks. Also, I&amp;rsquo;m working on a website called wat kan ik doen. This site is used to create an overview of upcoming protests in the Netherlands. On top of this I&amp;rsquo;m building an iOS app for the project to expand my knowledge of app development.</description>
+    </item>
+    
+    <item>
+      <title>First post</title>
+      <link>http://meditations.is/post/first-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://meditations.is/post/first-post/</guid>
+      <description>Welcome to my website! 2 of my colleagues started a blog and took up the challenge to write 100 post in a year. This is my attempt to join them in the challenge! :)
+For a while I&amp;rsquo;ve been trying to write more. Throughout my day I encounter things that make me think. Usually I forget about it soon, and this has bothered me for a while. I want to have a medium where I can write these thoughts down, so this challenge seemed like the perfect opportunity to get started.</description>
+    </item>
+    
+  </channel>
+</rss>
